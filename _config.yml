@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Finger Lakes HPC Workshop and Hub
+title: Finger Lakes HPC Hub
 email: contact@fingerlakeshpc.org
 description: >- # this means to ignore newlines until "baseurl:"
-  High Performance Computing Community Workshop and Hub located in the Finger Lakes region of Upstate New York.
+  Hub for the High Performance Computing Community located in the Finger Lakes region of Upstate New York. Hosts of the Finger Lakes Regional HPC Workshop.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -24,9 +24,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
-plugins:
-  - jekyll-feed
+theme: minima
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

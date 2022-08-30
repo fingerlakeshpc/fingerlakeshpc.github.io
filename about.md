@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The Finger Lakes HPC Hub aims to connect the HPC community located in
+and around the beautiful Finger Lakes region of Western New York
+state.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# Current Organizers
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+  - William Scullin, HPC Group Leader, [Laboratory for Laser Energetics](https://www.lle.rochester.edu/), University of Rochester
+  - [Sreepathi Pai](https://www.cs.rochester.edu/~sree/), Assistant Professor of Computer Science, University of Rochester
+  - Raka Ghosh, Administrative Assistant, Laboratory for Laser Energetics
