@@ -16,6 +16,8 @@ Our very first event is a workshop where you can showcase your HPC research acti
 
 **Location**: Rochester, NY
 
-Registration is free. More details coming soon!
+**Cost**: Free
+
+**Registration**: Online at [this link](https://forms.office.com/r/uT9WHq8D1j) please register no later than September 30, 2022.
 
 
