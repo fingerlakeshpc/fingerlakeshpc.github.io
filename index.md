@@ -18,6 +18,6 @@ Our very first event is a workshop where you can showcase your HPC research acti
 
 **Cost**: Free
 
-**Registration**: Online at [this link](https://forms.office.com/r/uT9WHq8D1j) please register no later than September 30, 2022.
+**Registration**: Online at [this link](https://forms.office.com/r/uT9WHq8D1j) please register no later than Thursday, October 6, 2022. This is needed for meals.
 
 A tentative [schedule](schedule) is now available!
