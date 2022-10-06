@@ -14,7 +14,7 @@ Our very first event is a workshop where you can showcase your HPC research acti
 
 **Date**: October 14, 2022
 
-**Location**: Rochester, NY
+**Location**: Hilton Garden Inn Rochester/University & Medical Center, 30 Celebration Dr., Rochester, NY
 
 **Cost**: Free
 
