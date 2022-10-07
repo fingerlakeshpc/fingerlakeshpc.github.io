@@ -18,8 +18,8 @@ The schedule below is tentative. More details on talks later.
 | 10:30--10:45am | Break                                                         |
 | 10:45--12:30am | Research      talks (detailed list after registration closes) |
 | 12:30--1:30pm  | Lunch                                                         |
-| 1:30--3:00pm   | Tour          of       the        Laser    Lab                |
-| 3:00--4:30pm   | Poster        Session                                         |
+| 1:30--3:00pm   | Poster        Session                                         |
+| 3:00--4:30pm   | Tour          of       the        Laser    Lab                |
 | 4:30--5:00pm   | Roundtable    and      Concluding Remarks                     |
 
 
