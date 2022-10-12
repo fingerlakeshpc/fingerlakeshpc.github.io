@@ -5,8 +5,6 @@
 layout: default
 ---
 
-The schedule below is tentative. More details on talks later.
-
 # Schedule
 
 
@@ -16,7 +14,7 @@ The schedule below is tentative. More details on talks later.
 | 9:30--9:45am   | Introductory  Remarks                                         |
 | 9:45--10:30am  | Invited       talk                                            |
 | 10:30--10:45am | Break                                                         |
-| 10:45--12:30am | Research      talks (detailed list after registration closes) |
+| 10:45--12:30am | Research      talks                                           |
 | 12:30--1:30pm  | Lunch                                                         |
 | 1:30--3:00pm   | Poster        Session                                         |
 | 3:00--4:30pm   | Tour          of       the        Laser    Lab                |
