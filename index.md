@@ -20,4 +20,4 @@ Our very first event is a workshop where you can showcase your HPC research acti
 
 **Registration**: Online at [this link](https://forms.office.com/r/uT9WHq8D1j) please register no later than Thursday, October 6, 2022. This is needed for meals.
 
-A tentative [schedule](schedule) is now available!
+The [schedule](schedule) is now available!
