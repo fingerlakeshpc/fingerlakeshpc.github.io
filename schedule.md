@@ -19,7 +19,7 @@
 |                | Data-Driven Optimization of Nuclear Fusion Experiments                                                                               | Varchas Gopalaswamy, LLE, U. Rochester |        |
 |                | Setting up Spack in your home directory as an alternative to Conda                                                                   | Sidney Pendelberry, RC, RIT            |        |
 |                | Advancing HPC and ML Systems via Efficient Data Management                                                                           | Dingwen Tao, ISE, IU                   |        |
-|                | Energy Efficient Data Transfer Optimization via Decision Tree Based Uncertainty Reduction                                            | Jamil Hasibul, CS, Buffalo             |        |
+|                | PETSc?                                            | Matt Knepley, CS, Buffalo             |        |
 |                | Accelerating Orbital-Free Density Functional Theory Molecular Dynamics Simulations Relevant to Inertial Confinement Fusion with GPUs | Deyan Mihaylov, LLE, U. Rochester      |        |
 |                | TriForce                                                                                                                             | Adam Sefkow, ME, U. Rochester          |        |
 | 12:30--1:30pm  | Lunch                                                                                                                                |                                        |        |
