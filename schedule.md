@@ -32,4 +32,15 @@
 | 4:30--5:00pm   | Roundtable    and      Concluding Remarks                                                                                            |                                        |        |
 
 
+## Keynote
 
+_DNA Computing and Storage_, David Turek from CATALOG
+
+Dave Turek is CTO at CATALOG, a Boston-based start up building the
+world's first DNA-based computing platform.  Prior to CATALOG, he was
+the executive responsible for IBM's Supercomputer Business which
+produced notable platforms such as Blue Gene, Roadrunner, the SP
+system and others.  He has been an advisor to governments around the
+world on HPC strategy and policy including several presentations to
+Congressional committees.  He is also an alum of the University of
+Rochester
