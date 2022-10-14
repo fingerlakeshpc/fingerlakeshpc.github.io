@@ -29,8 +29,8 @@
 |                | Inertial Confinement Fusion                                                                                                          | Hannah Gallagher, Optics, U. Rochester |        |
 |                | Exploring novel electromagnetic algorithms for efficient PIC simulationsExploring novel electromagnetic algorithms for efficient PIC simulations                                                                                                          | Andrew Sexton, ME, U. Rochester |        |
 |                | Software Architecture Design for Modular Multiphysics Simulations                                                                                                          | Ayden Kish, ME, U. Rochester |        |
-|                | TriForce: Projects, Progress, and Plans                                                                                                          | Adam Sefkow, ME U. Rochester |        |
-|                | Towards Deep Learning Based Predictive Models for Laser Direct Drive on the Omega Laser Facility                                                                                                           | Rahman Ejaz, ME U. Rochester |        |
+|                | TriForce: Projects, Progress, and Plans                                                                                                          | Adam Sefkow, ME, U. Rochester |        |
+|                | Towards Deep Learning Based Predictive Models for Laser Direct Drive on the Omega Laser Facility                                                                                                           | Rahman Ejaz, ME, U. Rochester |        |
 | 3:00--4:30pm   | Tour          of       the        Laboratory for Laser Energetics                                                                    |                                        |        |
 | 4:30--5:00pm   | Roundtable    and      Concluding Remarks                                                                                            |                                        |        |
 
