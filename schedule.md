@@ -26,7 +26,6 @@
 |                | Supporting Interactivity in High Performance Computing                                                                               | Louis Jenkins, CS, U. Rochester        |        |
 |                | Portability Autotuning of Linear Algebra Kernels on GPUs                                                                             | Robert Hochgraf, CS, RIT               |        |
 |                | Queueing Model of Shared Atomics on NVIDIA Volta GPU                                                                                 | Rongcui Dong, CS, U. Rochester         |        |
-|                | Inertial Confinement Fusion                                                                                                          | Hannah Gallagher, Optics, U. Rochester |        |
 |                | Exploring novel electromagnetic algorithms for efficient PIC simulationsExploring novel electromagnetic algorithms for efficient PIC simulations                                                                                                          | Andrew Sexton, ME, U. Rochester |        |
 |                | Software Architecture Design for Modular Multiphysics Simulations                                                                                                          | Ayden Kish, ME, U. Rochester |        |
 |                | TriForce: Projects, Progress, and Plans                                                                                                          | Adam Sefkow, ME, U. Rochester |        |
