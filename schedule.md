@@ -19,15 +19,18 @@
 |                | Data-Driven Optimization of Nuclear Fusion Experiments                                                                               | Varchas Gopalaswamy, LLE, U. Rochester |        |
 |                | Setting up Spack in your home directory as an alternative to Conda                                                                   | Sidney Pendelberry, RC, RIT            |        |
 |                | Advancing HPC and ML Systems via Efficient Data Management                                                                           | Dingwen Tao, ISE, IU                   |        |
-|                | PETSc?                                            | Matt Knepley, CS, Buffalo             |        |
+|                | How to Choose an Algorithm                                            | Matt Knepley, CS, Buffalo             |        |
 |                | Accelerating Orbital-Free Density Functional Theory Molecular Dynamics Simulations Relevant to Inertial Confinement Fusion with GPUs | Deyan Mihaylov, LLE, U. Rochester      |        |
-|                | TriForce                                                                                                                             | Adam Sefkow, ME, U. Rochester          |        |
 | 12:30--1:30pm  | Lunch                                                                                                                                |                                        |        |
 | 1:30--3:00pm   | Poster        Session:                                                                                                               |                                        |        |
 |                | Supporting Interactivity in High Performance Computing                                                                               | Louis Jenkins, CS, U. Rochester        |        |
 |                | Portability Autotuning of Linear Algebra Kernels on GPUs                                                                             | Robert Hochgraf, CS, RIT               |        |
 |                | Queueing Model of Shared Atomics on NVIDIA Volta GPU                                                                                 | Rongcui Dong, CS, U. Rochester         |        |
 |                | Inertial Confinement Fusion                                                                                                          | Hannah Gallagher, Optics, U. Rochester |        |
+|                | Exploring novel electromagnetic algorithms for efficient PIC simulationsExploring novel electromagnetic algorithms for efficient PIC simulations                                                                                                          | Andrew Sexton, ME, U. Rochester |        |
+|                | Software Architecture Design for Modular Multiphysics Simulations                                                                                                          | Ayden Kish, ME, U. Rochester |        |
+|                | TriForce: Projects, Progress, and Plans                                                                                                          | Adam Sefkow, ME U. Rochester |        |
+|                | Towards Deep Learning Based Predictive Models for Laser Direct Drive on the Omega Laser Facility                                                                                                           | Rahman Ejaz, ME U. Rochester |        |
 | 3:00--4:30pm   | Tour          of       the        Laboratory for Laser Energetics                                                                    |                                        |        |
 | 4:30--5:00pm   | Roundtable    and      Concluding Remarks                                                                                            |                                        |        |
 
